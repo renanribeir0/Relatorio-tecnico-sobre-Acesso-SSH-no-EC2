@@ -17,8 +17,7 @@ O objetivo deste relatório é guiar o leitor através das etapas para criar uma
 ## Método
 
 Na página inicial do console, clique em na engrenagem EC2:
-
-
+![imagem 1](<img width="363" alt="image" src="https://github.com/renanribeir0/Relatorio-tecnico-sobre-Acesso-SSH-no-EC2/assets/110369271/a5260d91-16e8-43ae-bf3e-b86ba496577b">)
 
 Logo após, você será redirecionado para a aba instâncias:
 
@@ -142,6 +141,34 @@ Entre no cmd (Prompt de Comando) do seu computador e cole o caminho copiado ante
 
 
 Assim, você terá acesso a sua instância via SSH.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
