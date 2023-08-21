@@ -17,7 +17,8 @@ O objetivo deste relatório é guiar o leitor através das etapas para criar uma
 ## Método
 
 Na página inicial do console, clique em na engrenagem EC2:
-![imagem](https://github.com/renanribeir0/Relatorio-tecnico-sobre-Acesso-SSH-no-EC2/raw/main/assets/110369271/a5260d91-16e8-43ae-bf3e-b86ba496577b.png)
+<img width="363" alt="image" src="https://github.com/renanribeir0/Relatorio-tecnico-sobre-Acesso-SSH-no-EC2/assets/110369271/da1462d5-ac58-4db2-ad83-6f94dca897c0">
+
 
 Logo após, você será redirecionado para a aba instâncias:
 
