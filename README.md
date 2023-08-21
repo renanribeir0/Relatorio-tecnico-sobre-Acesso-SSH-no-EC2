@@ -19,7 +19,7 @@ O objetivo deste relatório é guiar o leitor através das etapas para criar uma
 ## 1.
 Na página inicial do console, clique em na engrenagem EC2:
 
-<img width="363" alt="image" src="https://github.com/renanribeir0/Relatorio-tecnico-sobre-Acesso-SSH-no-EC2/assets/110369271/da1462d5-ac58-4db2-ad83-6f94dca897c0">
+<img width="726" alt="image" src="https://github.com/renanribeir0/Relatorio-tecnico-sobre-Acesso-SSH-no-EC2/assets/110369271/da1462d5-ac58-4db2-ad83-6f94dca897c0">
 
 
 
